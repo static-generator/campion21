@@ -5,7 +5,7 @@
 >watching
 ### Fave foods
 >fried chicken,
->Daing
+>Daing, and
 >rice puh 
 ### Favorite songs rn
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lOpUMMUskknPD3dJR2MkT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
